@@ -11,14 +11,9 @@ Each network will contain information about:
 
 # Goerli
 
-Claiming information for Goerli.
-
 - **Claiming data**: [goerli/originals/claims.json](goerli/originals/claims.json)
 - **Mappings**: [goerli/mapping.json](goerli/mapping.json)
 - **Chunks**: [goerli/chunks](goerli/chunks)
-
-The accounts for testing this are the first 10K accounts of the awesome mnemonic:
-`claim all milk together toward moon swap coin become rich quick guitar`
 
 # Gnosis Chain
 
